@@ -4,7 +4,7 @@ date: 2024-09-04T02:07:42.055Z
 description: Nước chanh là sự bổ sung đơn giản nhưng mang lại nhiều lợi ích cho
   sức khỏe. Nhiều người có thói quen uống nước chanh hằng ngày. Nhưng uống lúc
   nào là tốt nhất?
-image: https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2024/9/2/sk300801-anh1-1725273571482312841944.jpg
+image: sk300801-anh1-1725273571482312841944.webp
 ---
 Sau đây, một bác sĩ chuyên về dinh dưỡng sẽ chỉ ra những lợi ích của uống nước chanh và đưa ra lời khuyên về thời điểm tốt nhất để bạn uống nước chanh.
 
